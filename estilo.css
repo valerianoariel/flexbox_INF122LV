@@ -1,0 +1,93 @@
+body{
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /*margin: 20px;*/
+}
+
+.contenedor1{
+    background: radial-gradient(white, white);
+    width: 405px;
+    height: 97vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: solid 2px black;
+}
+
+.contenedor2{
+    background: radial-gradient(gold, orange);
+    width: 405px;
+    height: 97vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: solid 2px black;
+}
+
+.contenedor3{
+    background: radial-gradient(aqua, blue);
+    width: 405px;
+    height: 97vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: solid 2px black;
+}
+
+.filas{
+    background-color: navy;
+    width: 390px;
+    height: 17vh;
+    margin: auto;
+    position: relative;
+}
+
+.filas2{
+    background: radial-gradient(orange, brown);
+    width: 380px;
+    height: 17vh;
+    margin: auto;
+    position: relative;
+    border: solid 2px black;
+}
+
+.filas3{
+    background: radial-gradient(pink, red);
+    width: 380px;
+    height: 17vh;
+    margin: auto;
+    position: relative;
+    border: solid 2px black;
+}
+
+.filadecol{
+    background-color: transparent;
+    width: 390px;
+    height: 17vh;
+    margin: auto;
+    position:;
+    display: flex;
+    flex-direction: row;
+}
+
+.columnas{
+    background-color: aqua;
+    width: 120px;
+    height: 17vh;
+    margin:auto;
+    position: relative;
+    display: flex;
+    border: solid 2px black;
+}
+
+.columnas1{
+    background:radial-gradient(aqua, blue);
+    width: 120px;
+    height: 17vh;
+    margin:auto;
+    position: relative;
+    display: flex;
+    border: solid 2px black;
+}
